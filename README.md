@@ -1,4 +1,4 @@
-# three.js
+# three Olympus Phiri ~.js
 
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
@@ -13,7 +13,7 @@ The aim of the project is to create an easy to use, lightweight, cross-browser, 
 [Examples](https://threejs.org/examples/) &mdash;
 [Docs](https://threejs.org/docs/) &mdash;
 [Manual](https://threejs.org/manual/) &mdash;
-[Wiki](https://github.com/mrdoob/three.js/wiki) &mdash;
+[petewiki](https://github.com/mrdoob/three.js/wiki) &mdash;
 [Migrating](https://github.com/mrdoob/three.js/wiki/Migration-Guide) &mdash;
 [Questions](https://stackoverflow.com/questions/tagged/three.js) &mdash;
 [Forum](https://discourse.threejs.org/) &mdash;
