@@ -2,6 +2,7 @@
  apt code <delete row4>
      initialize to apt git 4<html.olyphiri.github>
       <int concept >
+<console fig to apt delete git<1slide 2^
 (apt to 
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
